@@ -112,7 +112,7 @@ The assessment screenshots in screenshots folder directory and The harness-gener
 
 ### Evidence capture
 
-![Evidence capture script output](../screenshots/evidence-tile-failure.png)
+![Evidence capture script output](../screenshots/Running_evidence_file.png)
 
 ### Map initialization
 
