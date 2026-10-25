@@ -176,7 +176,7 @@ if st.session_state.selected_facility_id:
 render_site_intelligence(site_intelligence)
 
 render_site_score(
-    site_intelligence.get("site_score")
+    (site_intelligence or {}).get("site_score")
 )
 
 render_market_intelligence(latest_news)
